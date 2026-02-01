@@ -5,11 +5,13 @@ import subprocess
 import psutil
 import keyboard
 
-# ==========================
-# CONFIG
 #==========================
-KEYBIND = "f8"  # change this to whatever key you want
-# ==========================
+# 🅲🅾︎🅽🅵🅸🅶
+#==========================
+KEYBIND = "f8"  # change this to whatever key you want. Read the README for more information
+#==========================
+# 🅲🅾︎🅳🅴
+#===========================
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
